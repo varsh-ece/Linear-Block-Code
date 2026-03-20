@@ -100,7 +100,10 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 # Output:
-![image](https://github.com/user-attachments/assets/c0093b81-e5ad-4f99-9402-a1615f7f26fe)
+<img width="995" height="877" alt="image" src="https://github.com/user-attachments/assets/8cf8f008-b437-40fa-a79e-6127d9f5ca4c" />
+<img width="510" height="511" alt="image" src="https://github.com/user-attachments/assets/04fa46a5-d55b-4963-987d-c09e35554622" />
+
+
 
 
 # Results:
